@@ -14,3 +14,12 @@ Data was loaded and cleaned with several processes:
  * Ordered and sorted the columns by desending order of Gross revenue
  * Dropped empty columns and rows.
 
+![](MOVIE1.png)
+![](MOVIE2.png)
+![](MOVIE3.png)
+
+## Analysis
+* Correlation was checked within variables (budget and gross revenue) using scatter plot
+![](MOVIE4.png)
+* Correlation was also gotten in a dataframe for the numerical categories for easy reading
+![](MOVIE4.png)
